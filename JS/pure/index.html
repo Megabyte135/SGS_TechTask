@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SGS_TechTask</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            SGS_TechTask
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </nav>
+
+    <div class="container mt-5">
+        <h2>Выбор смены</h2>
+        <form>
+            <div class="form-group">
+                <label for="city">Город</label>
+                <select class="form-control" id="city" onchange="updateWorkshops()">
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="workshop">Цех</label>
+                <select class="form-control" id="workshop" onchange="updateEmployees()">
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="employee">Сотрудник</label>
+                <select class="form-control" id="employee">
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="team">Бригада</label>
+                <select class="form-control" id="team">
+                    <option>Бригада 1</option>
+                    <option>Бригада 2</option>
+                    <option>Бригада 3</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="shift">Смена</label>
+                <select class="form-control" id="shift">
+                    <option>Дневная</option>
+                    <option>Ночная</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary" onclick="saveToCookie()">Подтвердить</button>
+        </form>
+    </div>
+</body>
+</html>

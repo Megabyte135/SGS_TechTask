@@ -1,0 +1,6 @@
+CREATE FUNCTION dbo.fnAddSeparator ()
+RETURNS NVARCHAR(MAX)
+AS
+BEGIN
+    RETURN ' + '': '' + '
+END

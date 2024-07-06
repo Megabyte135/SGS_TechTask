@@ -1,0 +1,22 @@
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\bin\Debug\net8.0\Core.deps.json
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\bin\Debug\net8.0\Core.dll
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\bin\Debug\net8.0\Core.pdb
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\Core.dll
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\Core.pdb
+C:\Users\Yemeth\source\repos\Core\SGS_TechTask\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\bin\Debug\net8.0\Core.deps.json
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\bin\Debug\net8.0\Core.dll
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\bin\Debug\net8.0\Core.pdb
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\Core.dll
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\Core.pdb
+C:\Users\Yemeth\source\repos\SGS_TechTask\NET Core\SGS_TechTask\obj\Debug\net8.0\ref\Core.dll
